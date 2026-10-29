@@ -1,5 +1,5 @@
 ## Game Variety Script
-![GameVariety](https://support.discord.com/hc/article_attachments/44370063946007)
+![GameVariety](https://support.discord.com/hc/article_attachments/44370063946391)
 ```
 const cache = {};
 if (typeof DiscordNative === 'undefined')
